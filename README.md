@@ -6,8 +6,8 @@ This project focuses on exploring and analyzing global COVID-19 data using **SQ
 
 **Project Highlights**
 
--   **Data Source**: Our World in Data - COVID-19 Dataset
--   **Skills Used**:
+**Data Source**: Our World in Data - COVID-19 Dataset ```https://ourworldindata.org/covid-deaths```
+**Skills Used**:
 
 -   SQL Joins
 -   Common Table Expressions (CTEs)
@@ -19,7 +19,7 @@ This project focuses on exploring and analyzing global COVID-19 data using **SQ
 
 * * * * *
 
-** Key Analyses**
+**Key Analyses**
 
 -   **Total Cases vs. Total Deaths**\
     Assesses death rates in different countries to show the likelihood of dying if infected.
@@ -34,7 +34,7 @@ This project focuses on exploring and analyzing global COVID-19 data using **SQ
 
 * * * * *
 
-** Techniques Implemented**
+**Techniques Implemented**
 
 -   Created **CTEs and Temp Tables** for complex calculations.
 -   Used **Window Functions** for cumulative statistics (e.g., rolling vaccinations).
@@ -43,10 +43,10 @@ This project focuses on exploring and analyzing global COVID-19 data using **SQ
 
 * * * * *
 
-** How to Use**
+**How to Use**
 
-1.  Open the COVID19_DataExploration.sql file in SQL Server Management Studio (SSMS) or Azure Data Studio.
-2.  Make sure your dataset tables are named CovidDeaths and CovidVaccinations.
+1.  Open the ```COVID19_DataExploration.sql``` file in SQL Server Management Studio (SSMS) or Azure Data Studio.
+2.  Make sure your dataset tables are named ```CovidDeaths``` and ```CovidVaccinations```.
 3.  Run queries step-by-step to explore data insights.
 4.  Use the final **View** or **Temp Table** results to build dashboards in Tableau, Power BI, or Excel.
 
