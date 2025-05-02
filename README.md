@@ -6,7 +6,7 @@ This project focuses on exploring and analyzing global COVID-19 data using **SQ
 
 **Project Highlights**
 
-**Data Source**: Our World in Data - [COVID-19 Dataset](https://ourworldindata.org/covid-deaths)
+**Data Source**: Our World in Data - [COVID-19 Dataset](https://ourworldindata.org/covid-deaths)\
 **Skills Used**:
 
 -   SQL Joins
