@@ -31,6 +31,13 @@ This project focuses on exploring and analyzing global COVID-19 data using **SQ
     Summarizes global case and death totals with mortality percentages.
 -   **Vaccination Progress**\
     Tracks vaccination rollouts and calculates rolling vaccination rates by country.
+* * * * *
+
+**Tableau Dashoboard**
+
+![Tableau Public Link](https://public.tableau.com/app/profile/parth.chopra/viz/shared/8DHKRGGGP)
+
+![Covid Dashboard](/Dashboard.png)
 
 * * * * *
 
