@@ -1,4 +1,4 @@
-#COVID-19 Data Exploration Using SQL and Tableau Dashboard
+# COVID-19 Data Exploration Using SQL and Tableau Dashboard
 
 This project focuses on exploring and analyzing global COVID-19 data using **SQL Server** and craeting **Tableau Dashboard** for visuals. The goal is to derive meaningful insights on infection rates, death rates, and vaccination progress using a variety of advanced SQL techniques.
 
