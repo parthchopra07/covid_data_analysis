@@ -35,7 +35,7 @@ This project focuses on exploring and analyzing global COVID-19 data using **SQ
 
 **Tableau Dashoboard**
 
-[Tableau Public Link](https://public.tableau.com/app/profile/parth.chopra/viz/shared/8DHKRGGGP)
+[Tableau Public Link](https://public.tableau.com/views/CovidDashboard_17465491185240/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ![Covid Dashboard](/Dashboard.png)
 
